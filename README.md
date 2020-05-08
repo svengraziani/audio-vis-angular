@@ -1,5 +1,5 @@
 ## Intro
-This Audio Visual ist in early alpha.
+This Audio Visual is in early alpha.
 It takes the input from your microphone and splits the frequencies into two bands, lower and higher frequencies, and uses it to modulate the paramters 
 of the 3D world and WebGL shaders.
 
